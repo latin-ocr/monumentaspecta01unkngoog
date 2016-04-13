@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaspecta01unkngoog/monumentaspecta01unkngoog_0295.png"; bbox 0 0 1738 2224; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 624 1443 1381 1714">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 624 1443 1381 1686">
+     <span class='ocr_line' id='line_1_1' title="bbox 772 1443 1381 1519; baseline -0.002 -10.881"><span class='ocrx_word' id='word_1_1' title='bbox 772 1443 1095 1511; x_wconf 50' lang='lat' dir='ltr'><strong>vknnm&#39;ffimat</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1083 1480 1197 1517; x_wconf 68' lang='lat' dir='ltr'><strong>mihiqu-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1210 1483 1259 1511; x_wconf 69' lang='lat' dir='ltr'><strong><em>m</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1264 1480 1355 1519; x_wconf 58' lang='lat' dir='ltr'><strong><em>w</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1374 1497 1381 1507; x_wconf 91' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 642 1577 1369 1635; baseline 0.001 -27"><span class='ocrx_word' id='word_1_6' title='bbox 642 1623 644 1625; x_wconf 26' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_7' title='bbox 669 1628 671 1632; x_wconf 19' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 693 1630 695 1632; x_wconf 26' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_9' title='bbox 718 1577 992 1610; x_wconf 56' lang='lat' dir='ltr'><strong>&amp;memmim-</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1001 1581 1081 1616; x_wconf 62' lang='lat' dir='ltr'><strong>puin.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1092 1582 1290 1617; x_wconf 55' lang='lat' dir='ltr'><strong>repo-affiatu.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1308 1586 1369 1635; x_wconf 59' lang='lat'><em>4</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 624 1611 1348 1714; baseline 0.002 -37"><span class='ocrx_word' id='word_1_13' title='bbox 624 1645 628 1651; x_wconf 66' lang='grc'><strong><em>«</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 647 1639 730 1689; x_wconf 43' lang='lat'><strong>3„</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 723 1615 915 1679; x_wconf 53' lang='lat' dir='ltr'><strong>’ww</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 825 1611 1348 1714; x_wconf 41' lang='lat' dir='ltr'><strong>&amp;mmm-11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1738 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1738 2224">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1738 2224; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1738 2224; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
